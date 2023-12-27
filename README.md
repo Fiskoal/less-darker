@@ -23,7 +23,7 @@ Please help support the hard-working team at [IRONMACE](https://www.ironmace.com
     - For peace of mind
 
   - 'X' to Minimize to tray
-    - So that I can be cool like Discord
+    - So that we can be cool like Discord
 
   ### Overlay
   
@@ -46,7 +46,7 @@ Please help support the hard-working team at [IRONMACE](https://www.ironmace.com
 Less Darker is licensed under the BSD-3-Clause license. See our [LICENSE](https://github.com/less-darker/less-darker/blob/main/LICENSE).
 
 ## Contribute and Develop
-Once I have a working version of this that both IronMace and myself are happy with, I will document contribution guidelines and open contributions!
+Once we have a working version of this that both IronMace and myself are happy with, we will document contribution guidelines and open contributions!
 
 ## Screenshots
 Screenshots available soon!
